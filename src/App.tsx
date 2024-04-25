@@ -38,6 +38,11 @@ function App() {
           {buttonText}
         </button>
       </div>
+      <div className="card">
+        <button>
+          Inscribe Sigil
+        </button>
+      </div>
     </>
   )
 }
